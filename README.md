@@ -76,6 +76,16 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| [EcommercePlaywrightFramework](https://github.com/VT9695/EcommercePlaywrightFramework) | Playwright + TypeScript | UI automation framework for an e-commerce site |
+| [EcommerceWebsiteUIAutomation](https://github.com/VT9695/EcommerceWebsiteUIAutomation) | UI Automation | End-to-end UI test suite for an e-commerce website |
+| [ApiAutomation](https://github.com/VT9695/ApiAutomation) | API Automation | API automation framework |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
