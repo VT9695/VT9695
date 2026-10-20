@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/FOCUS-TEST%20AUTOMATION-4C8BF5?style=for-the-badge&labelColor=555555" />
   <img src="https://img.shields.io/badge/EXPERIENCE-8%2B%20YEARS-4C8BF5?style=for-the-badge&labelColor=555555" />
   <img src="https://img.shields.io/badge/ISTQB-CTFL--AT-4C8BF5?style=for-the-badge&labelColor=555555" />
-  <img src="https://komarev.com/ghpvc/?username=VT9695&style=for-the-badge&color=4C8BF5&label=PROFILE+VIEWS" />
+  <img src="https://hits.sh/github.com/VT9695.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=4c8bf5&labelColor=555555" />
 </p>
 
 <!-- Social badges (replace the # links with your own) -->
