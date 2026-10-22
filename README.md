@@ -59,37 +59,104 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appium-662CBC?style=flat-square&logo=appium&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20Assured-5A9E3A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Allure-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🧪 Testing & QA
+
+<img src="https://img.shields.io/badge/Playwright-5FA87A?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-6FA36B?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/WebdriverIO-C1739A?style=for-the-badge&logo=webdriverio&logoColor=white" />
+<img src="https://img.shields.io/badge/Appium-7E6FC4?style=for-the-badge&logo=appium&logoColor=white" />
+<img src="https://img.shields.io/badge/UiAutomator2-5FA88F?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/XCUITest-5C8DD6?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20Assured-6FA68A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Postman-D98A6A?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Newman-B98AA6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Allure-C98A8A?style=for-the-badge" />
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 💻 Development
+
+<img src="https://img.shields.io/badge/TypeScript-5C86C9?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-C9B35C?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-C98B5C?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-5C82B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-6FA36B?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ⚙️ DevOps & Tools
+
+<img src="https://img.shields.io/badge/Git-C9776A?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-555F6E?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab%20CI-C98A6A?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-5C86C9?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-8A7FC4?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⭐ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/VT9695/EcommercePlaywrightFramework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VT9695&repo=EcommercePlaywrightFramework&theme=tokyonight&hide_border=true&title_color=7AA2F7" width="48%" /></a>
+  <a href="https://github.com/VT9695/EcommerceWebsiteUIAutomation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VT9695&repo=EcommerceWebsiteUIAutomation&theme=tokyonight&hide_border=true&title_color=7AA2F7" width="48%" /></a>
+  <a href="https://github.com/VT9695/ApiAutomation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VT9695&repo=ApiAutomation&theme=tokyonight&hide_border=true&title_color=7AA2F7" width="48%" /></a>
+  <a href="https://github.com/VT9695/API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VT9695&repo=API&theme=tokyonight&hide_border=true&title_color=7AA2F7" width="48%" /></a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Top Repositories
 
-| Project | Stack | What it does |
-|---|---|---|
-| [EcommercePlaywrightFramework](https://github.com/VT9695/EcommercePlaywrightFramework) | Playwright + TypeScript | UI automation framework for an e-commerce site |
-| [EcommerceWebsiteUIAutomation](https://github.com/VT9695/EcommerceWebsiteUIAutomation) | UI Automation | End-to-end UI test suite for an e-commerce website |
-| [ApiAutomation](https://github.com/VT9695/ApiAutomation) | API Automation | API automation framework |
+<table>
+<tr><th>🚀 Project</th><th>📝 Description</th><th>⭐ Stars</th><th>🍴 Forks</th><th>💻 Language</th></tr>
+<tr><td><a href="https://github.com/VT9695/EcommercePlaywrightFramework"><b>EcommercePlaywrightFramework</b></a></td><td>Playwright + TypeScript UI automation framework for an e-commerce site</td><td><img src="https://img.shields.io/github/stars/VT9695/EcommercePlaywrightFramework?style=flat-square&label=%E2%AD%90&color=F5D547" /></td><td><img src="https://img.shields.io/github/forks/VT9695/EcommercePlaywrightFramework?style=flat-square&label=forks&color=2F80ED" /></td><td><img src="https://img.shields.io/github/languages/top/VT9695/EcommercePlaywrightFramework?style=flat-square&color=555555" /></td></tr>
+<tr><td><a href="https://github.com/VT9695/EcommerceWebsiteUIAutomation"><b>EcommerceWebsiteUIAutomation</b></a></td><td>End-to-end UI automation suite for an e-commerce website</td><td><img src="https://img.shields.io/github/stars/VT9695/EcommerceWebsiteUIAutomation?style=flat-square&label=%E2%AD%90&color=F5D547" /></td><td><img src="https://img.shields.io/github/forks/VT9695/EcommerceWebsiteUIAutomation?style=flat-square&label=forks&color=2F80ED" /></td><td><img src="https://img.shields.io/github/languages/top/VT9695/EcommerceWebsiteUIAutomation?style=flat-square&color=555555" /></td></tr>
+<tr><td><a href="https://github.com/VT9695/ApiAutomation"><b>ApiAutomation</b></a></td><td>API automation framework</td><td><img src="https://img.shields.io/github/stars/VT9695/ApiAutomation?style=flat-square&label=%E2%AD%90&color=F5D547" /></td><td><img src="https://img.shields.io/github/forks/VT9695/ApiAutomation?style=flat-square&label=forks&color=2F80ED" /></td><td><img src="https://img.shields.io/github/languages/top/VT9695/ApiAutomation?style=flat-square&color=555555" /></td></tr>
+<tr><td><a href="https://github.com/VT9695/API"><b>API</b></a></td><td>API testing practice repository</td><td><img src="https://img.shields.io/github/stars/VT9695/API?style=flat-square&label=%E2%AD%90&color=F5D547" /></td><td><img src="https://img.shields.io/github/forks/VT9695/API?style=flat-square&label=forks&color=2F80ED" /></td><td><img src="https://img.shields.io/github/languages/top/VT9695/API?style=flat-square&color=555555" /></td></tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+| 🏆 Milestone | 📊 Status |
+|:---:|:---:|
+| 🎓 ISTQB CTFL-AT Certified | ✅ Achieved |
+| 🏅 HIGH5 Award @ ReBIT | ✅ Achieved |
+| 💼 8+ Years in QA & Automation | ✅ Achieved |
+| 👥 Mentored 10+ Engineers | ✅ Achieved |
+| 🎤 Founder — AutomateWithUs Training | ✅ Achieved |
+
+</div>
+
+---
+
+## 🤝 Open For
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VT9695&show_icons=true&theme=tokyonight&hide_border=true&title_color=7AA2F7" />
+  <img src="https://img.shields.io/badge/🤝_Collaboration-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧑‍🏫_Mentoring-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_Automation_Training-555555?style=for-the-badge" />
+</p>
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VT9695&show_icons=true&theme=tokyonight&hide_border=true&title_color=7AA2F7&include_all_commits=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com/?user=VT9695&theme=tokyonight&hide_border=true" />
 </p>
 
